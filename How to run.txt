@@ -1,0 +1,18 @@
+Step-by-Step Instructions
+
+1. Open Command Prompt
+
+2. Create and Activate your virtual environment:(Make sure you're in the root folder of your virtual environment)
+   
+   python -m venv myenv
+   myenv\Scripts\activate
+
+
+3. Install the required libraries
+   
+   pip install pandas matplotlib seaborn plotly streamlit
+
+
+4. Run your Streamlit app:(Make sure your `app.py` file is in the current directory)
+   
+   streamlit run app.py
