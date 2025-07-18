@@ -1,5 +1,7 @@
 Step-by-Step Instructions
 
+#note:first extract the dataset to run the project form ZIP file.
+
 1. Open Command Prompt
 
 2. Create and Activate your virtual environment:(Make sure you're in the root folder of your virtual environment)
